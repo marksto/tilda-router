@@ -2,7 +2,7 @@
 A ready-to-use component for enhanced in-page routing on Tilda-based websites.
 
 ## Demo
-See how the very same hash-based navigation ups [Tera kulta](terakulta.com) to the next level of UX.
+See how the very same hash-based navigation ups [Tera kulta](https://terakulta.com) to the next level of UX.
 
 [//]: # (TODO: Add a cool screencast from the Tk main page.)
 
