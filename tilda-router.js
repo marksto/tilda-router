@@ -354,7 +354,7 @@
             log('closeAllOpenPopups');
             // IMPORTANT: First two do not open at the same time.
             if ($(".t-store .t-popup_show").length > 0) {
-                t_store_closePopup(true);
+                t_store_closePopup(false, null, null, true);
             } else if ($(".t786 .t-popup_show").length > 0) {
                 t786_closePopup(true);
             }
