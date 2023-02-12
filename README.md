@@ -1,5 +1,7 @@
 # Tilda Router
 
+> ARCHIVED PROJECT: Tilda team sufficiently rewrote their products/cards logic, so this project should as well get reimplemented.
+
 A ready-to-use component for enhanced in-page routing on Tilda-based websites.
 
 
